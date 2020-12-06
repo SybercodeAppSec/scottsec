@@ -8,12 +8,6 @@ https://twitch.com/scottsec adresinde yapılan yayınların linkleri, kaynaklar�
 ## Ortamların Kurulumları
 
 
-<details open>
-	<summary>00 - Ne yapıyoruz ve ne yapacağız?</summary>
-
-  - [Belge ve Linkler](detay/00.md)
-- [Twitch](https://www.twitch.tv/videos/820867880?collection=qInVirEUTBaGfg)
-</details>
 
 <details open>
 	<summary>01 - Proxmox kurulumu, yapılandırılması ve OPNsense kurulumu</summary>
