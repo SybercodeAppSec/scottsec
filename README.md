@@ -19,8 +19,8 @@ https://twitch.com/scottsec adresinde yapılan yayınların linkleri, kaynaklar�
 	<summary>01 - Proxmox kurulumu, yapılandırılması ve OPNsense kurulumu</summary>
 
   - [Belge ve Linkler](detay/01.md)
-- [Youtube](https://www.youtube.com/watch?v=NdHKuA_Afec)
-- [Twitch](https://www.twitch.tv/videos/822479714)
+- [Youtube](https://www.youtube.com/watch?v=UEp6vYzFSvo)
+- [Twitch](https://www.twitch.tv/videos/821725150)
 </details>
 
 <details open>
@@ -56,7 +56,7 @@ https://twitch.com/scottsec adresinde yapılan yayınların linkleri, kaynaklar�
 	<summary>Aboneliklerin açılması ve satranç turnuvası</summary>
 
 - [https://www.twitch.tv/videos/827676900](https://www.twitch.tv/videos/827676900)
-- [http://www.youtube.com/watch?v=1231231231](http://www.youtube.com/watch?v=1231231231)
+- [https://www.youtube.com/watch?v=AuRRNff4gME](https://www.youtube.com/watch?v=AuRRNff4gME)
 </details>
 
 	
