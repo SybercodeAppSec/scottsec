@@ -39,7 +39,7 @@ https://twitch.com/scottsec adresinde yapılan yayınların linkleri, kaynaklar�
 - [Twitch](https://www.twitch.tv/videos/825272111)
 </details>
 
-<details>
+<details open>
 	<summary>04 - Sophos XG Güvenlik Duvarı Kurulumu</summary>
 
  - [Belge ve Linkler](detay/04.md)
