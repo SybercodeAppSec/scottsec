@@ -41,6 +41,16 @@ https://twitch.com/scottsec adresinde yapılan yayınların linkleri, kaynaklar�
 - [Twitch](https://www.twitch.tv/videos/825686234)
 </details>
 
+<details open>
+	<summary>05 - Active Directory kurulumu ve yapılandırılması</summary>
+
+ - [Belge ve Linkler](detay/05.md)
+- [Youtube](https://www.youtube.com/watch?v=5_LOgrWUeEE)
+- [Twitch](https://www.twitch.tv/videos/828331771)
+</details>
+
+
+
 
 
 ## Sohbet ve Eğlence
