@@ -63,4 +63,13 @@ https://twitch.com/scottsec adresinde yapılan yayınların linkleri, kaynaklar�
 - [https://www.youtube.com/watch?v=AuRRNff4gME](https://www.youtube.com/watch?v=AuRRNff4gME)
 </details>
 
+<details>
+	<summary>Düzenlediğimiz 2. Satranç turnuvası</summary>
+
+- [https://www.twitch.tv/videos/834913619](https://www.twitch.tv/videos/834913619)
+- [https://www.youtube.com/watch?v=QSTYFKyqgXs](https://www.youtube.com/watch?v=QSTYFKyqgXs)
+</details>
+
+
+
 	
