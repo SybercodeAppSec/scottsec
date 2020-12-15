@@ -51,6 +51,17 @@ https://twitch.com/scottsec adresinde yapılan yayınların linkleri, kaynaklar�
 
 
 
+<details open>
+	<summary>06 - Active Directory yönetimi</summary>
+
+ - [Belge ve Linkler](detay/06.md)
+- [Youtube](https://youtube.com/watch?v=mO3T-JOxZbM)
+- [Twitch](https://www.twitch.tv/videos/838195320)
+</details>
+
+
+
+
 
 
 ## Sohbet ve Eğlence
