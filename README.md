@@ -42,7 +42,7 @@ https://twitch.com/scottsec adresinde yapılan yayınların linkleri, kaynaklar�
 </details>
 
 <details open>
-	<summary>05 - Active Directory kurulumu ve yapılandırılması</summary>
+	<summary>05 - Domain Controller ve Active Directory kurulumu</summary>
 
  - [Belge ve Linkler](detay/05.md)
 - [Youtube](https://www.youtube.com/watch?v=5_LOgrWUeEE)
