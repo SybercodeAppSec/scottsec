@@ -61,6 +61,21 @@ https://twitch.com/scottsec adresinde yapılan yayınların linkleri, kaynaklar�
 
 
 
+<details open>
+	<summary>07 - Switch ve Ağ Altyapısının Kurulumu</summary>
+
+- [Youtube](https://www.youtube.com/watch?v=RAMiHYlNRpk)
+- [Twitch](https://www.twitch.tv/videos/857370749)
+</details>
+
+
+
+<details open>
+	<summary>08 - Exchange ve DNS Server Kurulumu</summary>
+
+- [Youtube](https://www.youtube.com/watch?v=z0dl6pbQEgA)
+- [Twitch](https://www.twitch.tv/videos/857372750)
+</details>
 
 
 
