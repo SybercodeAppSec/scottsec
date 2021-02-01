@@ -2,6 +2,16 @@
 
 https://twitch.com/scottsec adresinde yapılan yayınların linkleri, kaynakları, kaynak kodları ve arşivlerini barındıran repo.
 
+## Güvenli Yazılım Geliştirme
+
+<details open>
+	<summary>01 - Isınma Turları w/ @lodos2005 </summary>
+
+  - [Belge ve Linkler](detay/GuvenliYazilimGelistirme/01.md)
+- [Youtube](https://www.youtube.com/watch?v=KBkDsyROseU)
+- [Twitch](https://www.twitch.tv/videos/895999040)
+</details>
+
 
 
 
